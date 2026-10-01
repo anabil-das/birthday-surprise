@@ -1,0 +1,31 @@
+Build a romantic birthday-surprise website from the supplied reference screenshots.
+
+IMPORTANT:
+- This is a gift for my girlfriend.
+- Preserve the visual direction of the references: warm cream/beige background, burgundy/wine typography and buttons, soft gold accents, floating pink/red hearts, elegant editorial/romantic feel, rounded white cards, subtle shadows, and smooth transitions.
+- Make it a polished mobile-first single-page experience.
+- Do NOT simply paste screenshots into the page. Recreate the UI with HTML/CSS/JS.
+- Use the supplied photos of my girlfriend in the Memories and Surprise sections.
+- The journey should be:
+  1. Birthday landing screen with cake and “Happy Birthday” + NEXT.
+  2. “Please Accept My Gift” with YES and NO.
+  3. “Three Little Gifts”: A Letter, Fresh Roses, A Surprise.
+  4. Letter opens in a beautiful modal.
+  5. Memories section with multiple photo cards and romantic captions.
+  6. Final surprise section with a larger photo and birthday letter.
+  7. Add a final celebration animation with floating hearts/confetti.
+- Keep all buttons functional.
+- Add responsive design for phones, tablets and desktop.
+- Use accessible buttons, alt text, keyboard-friendly modal closing, and respect reduced-motion preferences.
+- No frameworks are required; vanilla HTML/CSS/JS is preferred.
+- Keep assets local so the project works offline after download.
+- Make the result feel premium, intimate and smooth rather than generic.
+
+Text direction:
+“Happy Birthday to my favorite person ❤️
+You make my life so much more beautiful just by being in it.
+I’m so lucky to have you. 🥹💗
+May you always smile, stay happy, and get everything your heart wishes for.
+Love you so much! 🫶💗”
+
+The reference screenshots are the design target, while the actual girl photos supplied with the task should be used as the photo content.
